@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+		background-color: #c7d5e0;
+	}
+	header{
+		text-align: center;
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+		border-color: antiquewhite;
+		border-width: 10px;
+		border-style: solid;
+		
+		
+	}
+	main{
+		text-align: center;
+	}
+	p{text-align: center;
+	  color: #1b2838;
+	  background-color: #7289da;
+	}
+	ul{
+		text-align: left;
+		font-size: 17px;
+		color: #2a475e;
+	}
+	h2{
+		background-color: white;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</style>
+	
+	
+	
+	
+

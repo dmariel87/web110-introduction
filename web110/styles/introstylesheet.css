@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {font-size: 14px;
+	background-color: aquamarine;
+	align-content: center;
+	text-align: center;
+	align-items: center;
+	font-style: bold;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+h1{align-content: center;
+	font-size: 36px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+img{align-content: center;
+	border: thin;
+	border-color: black;
+		
+
+}
+ul {align-content: left;}
